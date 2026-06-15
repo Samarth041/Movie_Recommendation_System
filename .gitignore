@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 et --soft HEAD~1q
 data/
-assets/
